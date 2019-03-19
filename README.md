@@ -10,4 +10,4 @@ el pg_hba.conf es un archivo de configuracion de autentificacion de clientes, el
 working directory, stagin area
 
 ¿Para qué sirve una bitácora (PostgreSQL y Apache)?
-Para lllevar la documentacion clara y cambio de versiones y/o actualizaciones al proyecto trabajado.
+Para lllevar la documentacion de errores y accesos y configurarlas
